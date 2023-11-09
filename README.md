@@ -27,3 +27,4 @@ Not finish yet...
 ## Maybe
 
 - [ ] 提供可视化文本框输入文本
+- [ ] 解决MacOS中没法输入中文的问题
