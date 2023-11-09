@@ -6,17 +6,13 @@
 
 ## English Introduction
 
-Automatically simulate input, even if pasting is disabled
+Automatically simulate input, even if pasting is disabled.
+
 ---
 
 ## How to use?
 
-### Easy to do:
-
-## Use Args :
-
-### Use Package
-
+Not finish yet...
 
 ---
 
@@ -24,6 +20,10 @@ Automatically simulate input, even if pasting is disabled
 
 ## Now
 
+- [ ] 基础的自动输入功能
+- [ ] 可调节输入速率(防止应用屏蔽)
+- [ ] 从文件中读取文本
 
 ## Maybe
 
+- [ ] 提供可视化文本框输入文本
