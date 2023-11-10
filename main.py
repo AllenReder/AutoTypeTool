@@ -1,7 +1,6 @@
 from AutoTypeTool import autoType
 from window import getArgsFromWindow
 import argparse
-import tkinter as tk
 
 parser = argparse.ArgumentParser()
 parser.add_argument('-t', '--text', type=str, help='text to type')
