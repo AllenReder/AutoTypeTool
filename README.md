@@ -12,7 +12,16 @@ Automatically simulate input, even if pasting is disabled.
 
 ## How to use?
 
-Not finish yet...
+### Python
+
+1. install all requirements
+2. `python main.py`
+
+Or you can use `autoType(text, interval, delay)` from `AutoTypeTool` package. 
+
+### Application
+
+not finished yet.
 
 ---
 
@@ -20,11 +29,12 @@ Not finish yet...
 
 ## Now
 
-- [ ] 基础的自动输入功能
-- [ ] 可调节输入速率(防止应用屏蔽)
-- [ ] 从文件中读取文本
+- [x] 基础的自动输入功能
+- [x] 可调节输入速率(防止应用屏蔽)
+- [x] 从文件中读取文本
+- [ ] 打包exe文件(Windows)
 
 ## Maybe
 
-- [ ] 提供可视化文本框输入文本
+- [x] 提供可视化文本框输入文本
 - [ ] 解决MacOS中没法输入中文的问题
