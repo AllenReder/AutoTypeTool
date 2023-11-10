@@ -16,6 +16,9 @@ Automatically simulate input, even if pasting is disabled.
 
 1. install all requirements
 2. `python main.py`
+3. Fill in the text that needs to be entered automatically, the interval between each character, and the delay before starting the input.
+
+![Image not found](imgs/window.png "Input args")
 
 Or you can use `autoType(text, interval, delay)` from `AutoTypeTool` package. 
 
